@@ -1,6 +1,11 @@
-### Hi there 👋
+Regarding the [deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) repository, after moving from NAVER Clova to the University of Tokyo in 2020, I stopped managing it.
+Fortunately, most issues are already answered in GitHub issues.
+If you cannot find the answer, ask me via email.
+However, I cannot answer the questions related to the Clova OCR service.
 
 <!--
+### Hi there 👋
+
 **ku21fan/ku21fan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
